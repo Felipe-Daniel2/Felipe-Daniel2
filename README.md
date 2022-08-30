@@ -1,4 +1,4 @@
-## Ola! Eu sou Felipe Daniel, desenvolvedor Web e Mobile😄
+## Olá! Eu sou Felipe Daniel, desenvolvedor Web e Mobile😄
 
 - 🔭 Estou buscando estágio em Web ou Mobile
 - 🌱 Estudando Laravel e VueJS
@@ -18,7 +18,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="pic" src="https://cdn.discordapp.com/attachments/992261885502173224/1013937063588012072/ezgif.com-gif-maker.gif">
-  
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/992261885502173224/1013972736487456889/output-onlinepngtools.png?width=676&height=676">
 </div>
   
   ##
