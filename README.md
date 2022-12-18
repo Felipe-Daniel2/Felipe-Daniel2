@@ -1,6 +1,6 @@
-## Olá! Eu sou Felipe Daniel, desenvolvedor Web e Mobile😄
+## Olá! Eu sou Felipe Daniel, estudante de computação😄
 
-- 🔭 Estou buscando estágio em Web ou Mobile
+- 🔭 Estou buscando estágio
 - 🌱 Estudando Laravel e VueJS
 - 🏅 Domino React, React Native, PHP, HTML, CSS e JavaScript
 
