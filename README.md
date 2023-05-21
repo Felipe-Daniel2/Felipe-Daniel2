@@ -1,7 +1,6 @@
-## Olá! Eu sou Felipe Daniel, estudante de computação😄
+## Olá! Eu sou Felipe Daniel😄
 
-- 🔭 Estou buscando estágio
-- 🌱 Estudando Laravel e VueJS
+- 🌱 Estudando Java Spring e Expressjs
 - 🏅 Domino React, React Native, PHP, HTML, CSS e JavaScript
 
 <div align="center">
